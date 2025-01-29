@@ -1,8 +1,8 @@
-  ##class
+  ## class
 
 some comments about my project
 
-  ##object
+  ## object
 Explanation
 
   ## url Class Diagram
